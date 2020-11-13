@@ -1,0 +1,25 @@
+[DEV] foo|Mr. Foo|foo@foo.in
+[DEV] foo2|Mr. Foo2|foo2@foo2.in
+[DEV] foo3|Mr. Foo3|foo3@foo3.in
+[DEV] foo4|Mr. Foo4|foo4@foo4.in
+[DEV] foo5|Mr. Foo5|foo5@foo5.in
+[DEV] foo6|Mr. Foo6|foo6@foo6.in
+[APP_GAME] Go|The Go Game|foo4|OS >= 4.1|online:1|Strategy|-0.3 $
+[RATE] app:Go|Mr. Bar11|11Awesome!!|stars:4
+[RATE] app:Go|Mr. Bar12|12Awesome!!|stars:5
+[RATE] app:Go|Mr. Bar13|13Awesome!!|stars:5
+[RATE] app:Go|Mr. Bar14|14Awesome!!|stars:1
+[APP_GAME] Chess|The Chess Game|foo2|OS >= 4.1|online:1|Strategy|15.3 $
+[RATE] app:Chess|Mr. Bar21|21Cool!!|stars:5
+[RATE] app:Chess|Mr. Bar22|22Cool!!|stars:5
+[RATE] app:Chess|Mr. Bar23|23Cool!!|stars:5
+[RATE] app:Chess|Mr. Bar24|24Cool!!|stars:3
+[APP_OFFICE] Word|Word App|foo|OS >=4.5|(.docx,.doc)|2.54 $
+[RATE] app:Word|Mr. Bar31|31Useful and versatile!|stars:5
+[RATE] app:Word|Mr. Bar32|32Useful and versatile!|stars:9
+[APP_OFFICE] Office|Office App|foo2|OS >=4.2|(.docx,.doc,.xlsx,.xls,.pdf,.xp)|-5.7 $
+dasdas
+[RATE] app:Word|Mr. Bar22|33Useful and versatile!|stars:3
+[RATE] app:Go|Mr. Bar14|14Awesome!!|stars:5
+[DEV] foo7|Mr. Foo7|foo7@foo6.in
+anotherlien
